@@ -39,6 +39,7 @@
                         <hr>
                         <li class="nav-item alert-danger ">
                             <a class="nav-link" href="sobre.php">Sobre</a>
+                            <hr>
                         </li>
                         <li class="nav-item alert-warning ">
                             <a class="nav-link" href="nossosServiços">Nossos serviços</a>
