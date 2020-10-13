@@ -54,6 +54,7 @@
                         <li class="nav-item alert-warning ">
                             <a class="nav-link" href="formasDePagamento">Formas de pagamneto</a>
                         </li>
+                        <hr>
                         <li class="nav-item alert-warning ">
                             <a class="nav-link" href="nossasUnidades">Nossas unidades</a>
                         </li>
