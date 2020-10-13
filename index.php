@@ -33,6 +33,7 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
+                    <hr>
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item alert-primary active">
                             <a class="nav-link" href="index.php">Inicial<span class="sr-only">Barber shop</span></a>
