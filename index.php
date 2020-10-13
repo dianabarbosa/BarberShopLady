@@ -7,13 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/Bootstrap/css/bootstrap.css">exemplo
+    <link rel="stylesheet" href="css/Bootstrap/css/bootstrap.css"> 1º exemplo
 
     <!-- ICOMOON -->
-    <link rel="stylesheet" href="css/icomoon.css">exemplo
+    <link rel="stylesheet" href="css/icomoon.css"> 2º Exemplo
 
     <!-- Meu css -->
-    <link rel="stylesheet" href="css/meuEstilo.css">exemplo
+    <link rel="stylesheet" href="css/meuEstilo.css"> 3º exemplo
 
     <title>Barber Shop</title>
 </head>
@@ -36,6 +36,7 @@
                         <li class="nav-item alert-primary active">
                             <a class="nav-link" href="index.php">Inicial<span class="sr-only">Barber shop</span></a>
                         </li>
+                        <hr>
                         <li class="nav-item alert-danger ">
                             <a class="nav-link" href="sobre.php">Sobre</a>
                         </li>
